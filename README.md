@@ -1,5 +1,5 @@
 # Beyond Trust
-# Privilege Management Uunix/Linux  Script Policies
+# Privilege Management Unix/Linux  Script Policies
 Compilation of PMUL Script Policies
 
 Role Based vs. Script Based Policies
